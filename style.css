@@ -1,0 +1,114 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /* color:white; */
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    border:1px solid black;
+    margin: 1rem;
+
+}
+.headerTop{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-bottom: 2px solid red;
+
+}
+.headerBottom{
+    border:1px solid black;
+}
+.section1{
+    margin: 1rem;
+    border:1px solid black;
+
+}
+.section1Top{
+    border:1px solid black;
+    
+}
+.section1Middle{
+    border:1px solid black;
+    
+}
+.section1Bottom{
+    border:1px solid black;
+}
+/* 4개의 개인 프로제트 */
+.section2{
+    border:1px solid black;
+    margin: 1rem;
+}
+.section2Project{
+    display: flex;
+    flex-direction: column;
+    border:1px solid black;
+}
+.section2Header{
+    display:flex;
+    align-items: center;
+}
+.section2HeaderLeft{
+}
+.section2HeaderMiddle{
+ flex:1 1 auto;
+ margin-left: 1rem;
+ margin-right: 1rem;
+
+}
+.section2HeaderRight{
+}
+.section2Section{
+    border:1px solid black;
+
+}
+.section2Section__Top{
+
+}
+.section2Section__Middle{
+
+}
+.section2Section__Buttom{
+
+}
+
+
+
+
+/* 노션,블로그 링크 */
+.footer{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    border:1px solid black;
+}
+.footerTop{
+    border:1px solid black;
+}
+.footerBottom{
+    display: flex;
+}
+.footerBottomLeft{
+    flex: 1 1 auto;
+    border:1px solid black;
+}
+.footerBottomRight{
+    flex: 1 1 auto;
+    border:1px solid black;
+}
+/* 예술가 후기 */
+.section3{ 
+    border:1px solid black;
+    margin: 1rem;
+
+}
+.hidden{
+    display: none;
+}

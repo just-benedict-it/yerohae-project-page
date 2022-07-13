@@ -1,0 +1,1 @@
+// document.body.style.backgroundImage = "url(https://cdn.pixabay.com/photo/2016/09/08/12/00/stars-1654074_960_720.jpg)";
